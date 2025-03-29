@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Gustavo!
 
-🚀 Apaixonado por tecnologia, programação e dados. Sempre em busca de novos desafios e aprendizados!
+🚀 Atualmente sou estudante de Engenharia de Software pela UnB! Apaixonado por tecnologia, programação e dados!
 
 ### 🛠️ Tecnologias & Ferramentas:
 
