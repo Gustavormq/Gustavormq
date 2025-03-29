@@ -1,5 +1,4 @@
-## Hi there 👋
-## 👋 Olá, eu sou [Seu Nome]!
+## 👋 Olá, eu sou Gustavo!
 
 🚀 Apaixonado por tecnologia, programação e dados. Sempre em busca de novos desafios e aprendizados!
 
@@ -11,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-ffca28?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
